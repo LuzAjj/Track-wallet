@@ -14,5 +14,5 @@ Fitur:
 
 1. **Clone**
    ```bash
-   git clone https://github.com/<kamu>/upbit-multichain-inflow-bot.git
+   git clone https://github.com/LuzAjjj/upbit-multichain-inflow-bot.git
    cd upbit-multichain-inflow-bot
