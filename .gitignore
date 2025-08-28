@@ -6,6 +6,11 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+node_modules
+.env
+npm-debug.log*
+.DS_Store
+dist
 
 # Additional Ruby/bundler ignore for when you run: bundle install
 /vendor
